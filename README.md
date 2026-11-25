@@ -1,6 +1,7 @@
-# ADB Lighthouse (repository for distribution)
+# ADB Lighthouse
 
 A graphical interface for working with Android devices through the Android Debug Bridge (ADB).
+<small>Repository for distribution</small>
 
 ## Features
 
